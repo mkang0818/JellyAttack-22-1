@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - enemy
+  - Stage1
+  - Stage2
+  - Wall
+  - Stage1_1
+  - Stage1_2
+  - Bullet
+  - Cactus
+  - enemyBullet
+  - 1_1Star
+  - 1_2Star
+  - 1Star
+  - Boss
+  - BossStar
+  - StageBox
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Enemy
+  - Player
+  - PlayerDamage
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: BackGround
+    uniqueID: 1212048671
+    locked: 0
+  - name: FrontGround
+    uniqueID: 1979428343
+    locked: 0
